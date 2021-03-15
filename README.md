@@ -1,2 +1,7 @@
 # jfgittutorial
- A demo repo for learning GitHub.
+A demo repo for learning GitHub.
+title
+programs
+function
+howtouse
+howtocontribute
